@@ -9,6 +9,7 @@ main {
 
 .calculator {
     margin-right: 100px;
+    border-radius: 20px;
 }
 
 .calculator__layout {
@@ -31,6 +32,7 @@ main {
     grid-column-end: 5;
     border-bottom: 2px solid black;
     padding: 20px;
+    border-radius: 20px;
 }
 
 .display--style {
@@ -44,6 +46,7 @@ main {
 
 .btn {
     font-size: 25px;
+    border-radius: 20px;
 }
 
 .btn:hover {
